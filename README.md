@@ -19,3 +19,8 @@ Focused on cloud infrastructure, containerization, automation, and reliable appl
 ￼ 
 
 Automate • Integrate • Deploy • Improve
+## 🛠️ DevOps Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,git,github,bash" />
+</p>
