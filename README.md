@@ -1,19 +1,21 @@
-Hi 👋, I'm Rohit Pagdhune
+👋 Hi, I'm Rohit Pagdhune
+☁️ DevOps Engineer | Cloud Infrastructure | Automation
+￼ ￼ ￼ 
 
-Aspiring DevOps Engineer 🚀
+🛠️ Technologies & Tools
+￼ ￼ ￼ ￼ ￼ ￼ ￼ ￼ 
 
-My Technical Skills
+⚙️ Core Competencies
+🐧 Linux System Administration
+☁️ AWS Cloud Infrastructure
+🔄 Git-Based Version Control
+🐳 Docker Containerization
+☸️ Kubernetes Orchestration
+🏗️ Infrastructure as Code with Terraform
+🚀 CI/CD Automation with Jenkins
+🎯 Professional Summary
+Focused on cloud infrastructure, containerization, automation, and reliable application deployment using modern DevOps tools and practices.
+🤝 Connect With Me
+￼ 
 
-- Linux
-- AWS
-- Git and GitHub
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- CI/CD Pipeline
-
-My Goal
-
-To become a DevOps Engineer and build real-world cloud projects.
-
+Automate • Integrate • Deploy • Improve
