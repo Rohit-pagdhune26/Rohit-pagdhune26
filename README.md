@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Rohit Pagdhune
 
-<!--
-**Rohit-pagdhune26/Rohit-pagdhune26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring DevOps Engineer 🚀
 
-Here are some ideas to get you started:
+My Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux
+- AWS
+- Git and GitHub
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- CI/CD Pipeline
+
+My Goal
+
+To become a DevOps Engineer and build real-world cloud projects.
+
