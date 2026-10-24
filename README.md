@@ -24,3 +24,8 @@ Automate • Integrate • Deploy • Improve
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,git,github,bash" />
 </p>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-pagdhune26&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-pagdhune26&layout=compact&theme=tokyonight)
